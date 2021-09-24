@@ -266,5 +266,3 @@ function clearContainer() {
 }
 
 export { dailyContainer, weeklyContainer, monthlyContainer, clearContainer };
-
-// , weeklyContainer, monthlyContainer
